@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keyboard Shortcuts Learning Tool</string>
+    <string name="intro_message">Welcome to use "Keyboard Shortcuts Learning Tool" ! This tool aims at helping you to learn 5 most common keyboard shortcuts for Windows operating system.</string>
+    <string name="button_learn">Start learning !</string>
+    <string name="button_test">Test my knowledge !</string>
+
+</resources>
